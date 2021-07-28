@@ -1,3 +1,6 @@
 [submodule "vcpkg"]
 	path = vcpkg
 	url = https://github.com/xieyubo/vcpkg.git
+[submodule "vendor/rpi-rgb-led-matrix"]
+	path = vendor/rpi-rgb-led-matrix
+	url = git@github.com:hzeller/rpi-rgb-led-matrix.git
